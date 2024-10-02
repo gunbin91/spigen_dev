@@ -94,8 +94,6 @@
     	<javac classpathref="java.classpath" srcdir="${java.source}" destdir="${java.dist}" debug="on" deprecation="off" optimize="off" encoding="UTF-8" includeantruntime="true" source="1.8" target="1.8" nowarn="true">
     		<classpath refid="webinf.classpath"/>
             <include name="**/*.java"/>
-    		<arg value="--add-opens"/>
-    		<arg value="jdk.compiler/com.sun.tools.javac.processing=ALL-UNNAMED"/>
         </javac>
     </target>
 </project>
