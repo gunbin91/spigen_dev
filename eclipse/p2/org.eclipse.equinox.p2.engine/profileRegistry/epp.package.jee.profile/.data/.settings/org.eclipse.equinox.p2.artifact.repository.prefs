@@ -163,3 +163,6 @@ repositories/https\:__download.eclipse.org_webtools_repository_latest/uri=https\
 repositories/https\:__download.eclipse.org_wildwebdeveloper_releases_1.3.0/enabled=true
 repositories/https\:__download.eclipse.org_wildwebdeveloper_releases_1.3.0/isSystem=true
 repositories/https\:__download.eclipse.org_wildwebdeveloper_releases_1.3.0/uri=https\://download.eclipse.org/wildwebdeveloper/releases/1.3.0/
+repositories/https\:__download.jboss.org_jbosstools_photon_stable_updates/enabled=true
+repositories/https\:__download.jboss.org_jbosstools_photon_stable_updates/isSystem=false
+repositories/https\:__download.jboss.org_jbosstools_photon_stable_updates/uri=https\://download.jboss.org/jbosstools/photon/stable/updates/
