@@ -123,4 +123,4 @@ $RECYCLE.BIN/
 
 # 추가
 *.snap
-/workspace/.metadata/
+workspace/.metadata
