@@ -24,7 +24,7 @@
 	<property name="profile.id"                   value="dev"/>
 	
 	<!-- Deploy Destination -->
-	<property name="deploy.dist"            value="D:/DHEC/standard-edoc"/>
+	<property name="deploy.dist"            value="C:\apache-tomcat-9.0.93\webapps\ant_test"/>
 	
 	<target name="deploy" depends="content.to.dist, build.java.to.dist">
 		<echo message="최종 목적지로 deploy 합니다."/>
