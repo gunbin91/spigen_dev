@@ -11,7 +11,7 @@ public class HelloWorldController {
     public ModelAndView helloWorld() {
         // hello.jsp에 "Hello, World!"를 전달
         ModelAndView model = new ModelAndView("hello");
-        model.addObject("message", "Hello, World! _ant Build update!");
+        model.addObject("message", "Hello, World!");
 
         return model;
     }
